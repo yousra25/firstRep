@@ -1,3 +1,3 @@
 # firstRep
 my first repository 
-modifiée
+modifiée *
